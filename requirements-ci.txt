@@ -25,7 +25,7 @@ enum34==1.1.10; python_version <= "3.4"
 flake8==3.8.3
 funcparserlib==0.3.6
 funcsigs==1.0.2
-future==0.18.2
+future==1.0.0
 idna==2.10
 imagesize==1.2.0
 incremental==17.5.0
